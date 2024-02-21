@@ -24,19 +24,19 @@ test-cases:
       Переход в меню "Магазин".
     status: fail
 
- - summary: |
+  - summary: |
       Переход в меню "Корзина".
     status: pass
 
-- summary: |
+  - summary: |
       Наличие кнопок в меню "Корзина".
     status: pass
 
-- summary: |
+  - summary: |
       Переход на главную страницу при нажатии кнопки "Продолжить покупки".
     status: pass
 
-- summary: |
+  - summary: |
       Проверка отображение магазина на разных разрешениях экрана.
     status: pass
 
