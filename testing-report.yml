@@ -8,7 +8,7 @@
   status: pass
 
 - summary: |
-    Отображение кнопок "Store", "Cart", "Language" в хедере сайта.
+    Отображение кнопок "Store", "Cart", "Language" в хедере страницы.
   status: pass
   
 - summary: |
