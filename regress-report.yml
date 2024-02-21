@@ -3,17 +3,41 @@ test-cases:
   - summary: |
       Отображение заголовка магазина "Hexlet Store" в хедере страницы.
     status: pass
+
+  - summary: |
+      Отображение футера страницы магазина.
+    status: pass
+    
+  - summary: |
+      Отображение кнопок "Store", "Cart", "Language" в хедере страницы.
+    status: pass
     
   - summary: |
       Проверка смены языка на Русский.
     status: fail
-
+    
   - summary: |
       Проверка отображения картинок флагов русского и английского языков.
     status: fail
-
+    
   - summary: |
       Переход в меню "Магазин".
     status: fail
+
+ - summary: |
+      Переход в меню "Корзина".
+    status: pass
+
+- summary: |
+      Наличие кнопок в меню "Корзина".
+    status: pass
+
+- summary: |
+      Переход на главную страницу при нажатии кнопки "Продолжить покупки".
+    status: pass
+
+- summary: |
+      Проверка отображение магазина на разных разрешениях экрана.
+    status: pass
 
 bugreports: []
