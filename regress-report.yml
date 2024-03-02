@@ -42,10 +42,10 @@ test-cases:
 
 - summary: |
     Удаление товара из "Корзины".
-  status: pass
+  status: fail
 
 - summary: |
     Пагинация (переход по страницам).
-  status: pass
+  status: fail
 
 bugreports: []
